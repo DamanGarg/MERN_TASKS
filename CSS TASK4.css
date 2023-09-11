@@ -1,0 +1,42 @@
+body{
+    display: flex;
+}
+.box {
+    display: flex;
+    border: 2px solid black;
+    width:50%;
+    height:400px;
+}
+#mysidenav a{
+    position: absolute;
+    left:10px;
+    transition:0.3s;
+    padding:25px;
+    text-decoration: none;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+.page{
+    margin-left: 130px;
+    flex-grow: 1;
+}
+#mysidenav a:hover{
+    left:0px;
+}
+#Home{
+    top:20px;
+    background-color: rgba(25, 173, 25, 0.991);
+    width: 10px;
+}
+#HTML{
+    top:85px;
+    background-color: rgb(25, 94, 245);
+}
+#CSS{
+    top:150px;
+    background-color: rgba(249, 53, 53, 0.89);
+}
+#Bootstrap{
+    top:215px;
+    background-color: rgba(57, 55, 55, 0.872);
+}

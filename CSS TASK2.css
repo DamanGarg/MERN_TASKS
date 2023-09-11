@@ -1,0 +1,104 @@
+.vertical{
+    margin-top: 250px;
+    margin-left: 100px;
+}
+.vertical p{
+    width: 250px;
+    color: blue;
+    font-size:larger;
+    height: 40px;
+}
+.first{
+    border: 1px solid black;
+    width: 285px;
+    padding-left:8px;
+    padding-bottom:0px;
+    height: 281px;
+}
+.vertical p:hover{
+    background-color: #000;
+}
+.Home{
+    background-color:coral;
+    color: white;
+    height: 30px;
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 13px;
+}
+.Java{
+    background-color: skyblue;
+    color: blue;
+    height: 30px;
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 13px;
+    margin-top: -20px;
+}
+.CSS{
+    background-color: skyblue;
+    color: blue;
+    height: 30px;
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 13px;
+    margin-top: -20px;
+}
+.HTML{
+    background-color: skyblue;
+    color: blue;
+    height: 30px;
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 13px;
+    margin-top: -20px;
+}
+.Bootstrap{
+    background-color: skyblue;
+    color: blue;
+    height: 40px;
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 13px;
+    margin-top: -20px;
+}
+.horizontal{
+    border:1px solid #000;
+    width:383.7px;
+    padding:20px;
+    margin: auto;
+    padding-right: 16.5px;
+    padding-left: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h2{
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    width: 400px;
+    height: 40px;
+}
+.horizontal th,.horizontal td{
+    border-right: 1px solid blue;
+    background-color:lightgray;
+    color: blue;
+}
+.horizontal th:nth-child(5),.horizontal td:nth-child(5){
+    width: 74px;
+    border-right: 0;
+}
+.horizontal th:nth-child(1),.horizontal td:nth-child(1){
+    background-color: gray;
+    color: white;
+}
+.second{
+    margin-left:500px;
+    position: relative;
+    margin-top: -250px;
+}
+.horizontal th:hover{
+    background-color: #000;
+}

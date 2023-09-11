@@ -1,0 +1,78 @@
+.firstshape{
+    width: 160px;
+    height: 100px;
+    border:4px solid yellowgreen;
+    margin-right: 350px;
+    margin-top: 0px;
+    border-radius:10px;
+}
+.secondshape{
+    width: 160px;
+    height: 100px;
+    border:4px solid yellowgreen;
+    margin-right: 350px;
+    margin-top: 30px;
+    border-radius:15px;
+}
+.oval{
+    width:170px;
+    height:90px;
+    border:4px solid yellowgreen;
+    margin-right: 350px;
+    margin-top: 30px;
+    border-radius:50%;
+}
+.fourthshape{
+    width: 160px;
+    height: 100px;
+    border:4px solid yellowgreen;
+    margin-left:60px;
+    border-radius:15px;
+    margin-top:-375px;
+    margin-bottom: 100px;
+    margin-right: 0;
+}
+.fifthshape{
+    width: 157px;
+    height: 100px;
+    border: 4px solid yellowgreen;
+    border-radius: 3px;
+    margin-left: 63px;
+    margin-top: -71px;
+}
+.sixthshape{
+    width: 160px;
+    height: 90px;
+    border: 4px solid yellowgreen;
+    border-radius: 7px;
+    margin-top: 30px;
+    margin-left: 65px;
+}
+.seventhshape{
+    width: 160px;
+    height: 100px;
+    border: 4px solid yellowgreen;
+    border-radius: 30px;
+    margin-left: 470px;
+    margin-top: -373px;
+}
+.eightshape{
+    width: 160px;
+    height: 104px;
+    border: 4px solid yellowgreen;
+    border-radius: 24px;
+    margin-left: 470px;
+    margin-top: 27px;
+}
+.ninthshape{
+    width: 160px;
+    height: 95px;
+    border: 4px solid yellowgreen;
+    border-radius: 3px;
+    margin-top: 27px;
+    margin-left: 470px;
+    border-top-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}

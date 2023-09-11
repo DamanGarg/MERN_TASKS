@@ -1,0 +1,95 @@
+.webpage p{
+    color: maroon;
+    max-width:700px;
+    word-wrap: break-word;
+    margin-bottom: 30px;
+    margin-top: -10px;
+}
+h1{
+    color: maroon;
+    text-align: right;
+    margin-right: 20%;
+}
+body{
+    display: flex;
+    border:1px solid maroon;
+    min-height:60vh;
+    width: 800px;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.welcome,.it{
+    margin-left:46%;
+}
+.there{
+    margin-left: 46%;
+}
+.made{
+    margin-left: 46%;
+}
+.by{
+    margin-left: 46%;
+    margin-top: -28px;
+}
+hr{
+    margin-left:46%;
+    margin-top: -12px;
+}
+.sidenav{
+    width:250px;
+    position: fixed;
+    top:0;
+    margin-top:12%;
+    padding-top: 3%;
+}
+.sidenav a{
+    text-decoration:none;
+    font-size: 25px;
+    width: 100px;
+    padding: 10px;
+    
+}
+.sidenav a:hover{
+    color: black;
+}
+#sidenav1{
+    color: darkmagenta;
+    border: 2px solid white;
+    background-color: white;
+    margin-left: 30px;
+    padding: 5px 70px 3px 2px;
+    border-right :20px solid black;
+    border-radius: 0;
+}
+#sidenav2{
+    color:blue;
+    border: 2px solid white;
+    background-color: white;
+    margin-left: 30px;
+    padding: 5px 98.5px 3px 2px;
+    border-right :20px solid black;
+    border-radius: 0;
+}
+#sidenav3{
+    color:blue;
+    border: 2px solid white;
+    background-color: white;
+    margin-left: 30px;
+    padding: 5px 93.5px 3px 2px;
+    border-right :20px solid black;
+    border-radius: 0;
+}
+#sidenav4{
+    color:blue;
+    border: 2px solid white;
+    background-color: white;
+    margin-left: 30px;
+    padding: 5px 128px 3px 2px;
+    border-right :20px solid black;
+    border-radius: 0;
+}
+.box{
+    background-color:#ffe81d;
+    height: 60vh;
+    width: 800px;
+}

@@ -1,0 +1,24 @@
+table{
+    justify-content: center;
+    width: 1000px;
+    padding: auto;
+    border-collapse: collapse;
+    align-self: center;
+    margin: auto;
+    margin-top: 15%;
+}
+th{
+    text-align: start;
+    background-color:lawngreen;
+    border-right: lawngreen;
+}
+tr:nth-child(odd){
+    background-color:white;
+}
+tr:nth-child(even){
+    background-color: hsla(270, 4%, 91%, 0.665);
+}
+tr{
+    border-right: 1px solid hsla(270, 4%, 91%, 0.665);
+    border-left: 1px solid hsla(270, 4%, 91%, 0.665);
+}
